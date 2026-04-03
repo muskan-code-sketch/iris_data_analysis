@@ -5,4 +5,4 @@ Through detailed statistical analysis and insightful visualizations 📈, the pr
 
 The study highlights feature correlations, distribution trends, and classification insights 🤖, providing a solid foundation for building and evaluating machine learning models for accurate species prediction.”
 
-LIVE DEMO : 
+LIVE DEMO : https://irisdataanalysis-soxrvfopamxcqxthuwwkke.streamlit.app/
